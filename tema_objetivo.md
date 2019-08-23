@@ -9,4 +9,4 @@ Tema
  Perda de Carga
  
  Objetivo
-  Analisar perda de carga localizada em uma bancada hidraúlica
+  Analisar perda de carga localizada em uma bancada hidráulica
