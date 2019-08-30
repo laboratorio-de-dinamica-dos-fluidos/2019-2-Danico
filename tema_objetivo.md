@@ -10,4 +10,5 @@
  <p>
  
  **Objetivo**
-  <p>Analisar perda de carga localizada em uma bancada hidráulica
+  <p>Analisar diferentes condições de vazão e diâmetro, as perdas de carga ao longo do comprimento de tubulações de uma bancada hidráulica, levando em conta as perdas por atrito e por componentes instalados nas tubulações, comparando os resultados experimentais com métodos empíricos utilizados na bibliografia. </p> 
+ <p>
