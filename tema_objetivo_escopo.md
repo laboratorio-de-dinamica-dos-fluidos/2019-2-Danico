@@ -42,3 +42,6 @@
  <li>P= pressão ao longo do recipiente</li>
  <li> &gamma;=massa específica do fluido</li>
 
+<p> 
+ Existem alguns tipos de análise para incluir o efeito de perda de carga. A princípio o escolhido será o de Darcy-Weissbach. Essa análise efetua uma correção sobre a carga distribuída incluindo um comprimento equivalente para cada um dos componentes da tubulação. Cada componente representa um comprimento equivalente (Leq), que é usado exatamente da mesma forma que o comprimento no cálculo da perda de carga distribuída, ou seja, quando se deseja saber a perda de pressão pela presença de um determinado componente, aplica-se a expressão de Darcy-Weissbach, com seu Leq: <p/>
+
