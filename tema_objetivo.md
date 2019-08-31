@@ -9,6 +9,20 @@
  <p>Perda de Carga </p>
  <p>
  
- **Objetivo**
+**Objetivo**
   <p>Analisar diferentes condições de vazão e diâmetro, as perdas de carga ao longo do comprimento de tubulações de uma bancada hidráulica, levando em conta as perdas por atrito e por componentes instalados nas tubulações, comparando os resultados experimentais com métodos empíricos utilizados na bibliografia. </p> 
  <p>
+ 
+**Requisitos**
+ <p>
+ <ul>
+  <li>Conhecer as características de tubulação, do fluido e o escoamento;</li>
+<li>Quantificar as perdas de carga em trechos distintos da bancada hidráulica;</li>
+<li>Comparar dados coletados experimentalmente com dados obtidos empiricamente na bibliografia;</li></p>
+
+<p>
+ 
+ **Escopo**
+<p>
+ As perdas de carga serão determinadas a partir da medição de diferença de pressão entre dois pontos. Considera-se que inicialmente, no nível da bancada de perda de carga, a parcela referente à energia de posição e à energia cinética são iguais nos pontos verificados, assim a perda de carga consiste na diferença de energia de pressão entre os pontos, o que pode ser representado pela equação da conservação da energia.</p> 
+ 
