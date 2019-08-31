@@ -39,10 +39,5 @@
  <li>g = aceleração da gravidade</li>
  <li>h= altura em relação a um referencial</li>
  <li>P= pressão ao longo do recipiente</li>
- <li>[$\Gamma $]=massa específica do fluido</li>
-\begin{simbolos}
-  \item[$ \Gamma $] Letra grega Gama
-  \item[$ \Lambda $] Lambda
-  \item[$ \zeta $] Letra grega minúscula zeta
-  \item[$ \in $] Pertence
-\end{simbolos}
+ <li>\gamma=massa específica do fluido</li>
+
