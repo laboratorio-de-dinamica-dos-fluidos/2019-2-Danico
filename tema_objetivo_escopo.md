@@ -39,5 +39,5 @@
  <li>g = aceleração da gravidade</li>
  <li>h= altura em relação a um referencial</li>
  <li>P= pressão ao longo do recipiente</li>
- <li>Gamma - &gamma;=massa específica do fluido</li>
+ <li> &gamma;=massa específica do fluido</li>
 
