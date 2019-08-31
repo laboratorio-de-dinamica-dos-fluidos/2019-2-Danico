@@ -33,12 +33,16 @@
  As perdas de carga serão determinadas a partir da medição de diferença de pressão entre dois pontos. Considera-se que, inicialmente, no nível da bancada de perda de carga, a parcela referente à energia de posição e à energia cinética são iguais nos pontos verificados. Assim, a perda de carga consiste na diferença de energia de pressão entre os pontos, o que pode ser representado pela equação da conservação da energia.</p> 
  
 ![Bernoulli](https://raw.githubusercontent.com/laboratorio-de-dinamica-dos-fluidos/2019.2-Danico/master/bernoulli.gif)
-<p>
  Onde,</p>
- <p>
 <ul>
   <li>V=velocidade do fluido ao longo do conduto;</li>
  <li>g = aceleração da gravidade</li>
  <li>h= altura em relação a um referencial</li>
  <li>P= pressão ao longo do recipiente</li>
- <li>[$ \Gamma $]=massa específica do fluido</li>
+ <li>[$\Gamma $]=massa específica do fluido</li>
+\begin{simbolos}
+  \item[$ \Gamma $] Letra grega Gama
+  \item[$ \Lambda $] Lambda
+  \item[$ \zeta $] Letra grega minúscula zeta
+  \item[$ \in $] Pertence
+\end{simbolos}
