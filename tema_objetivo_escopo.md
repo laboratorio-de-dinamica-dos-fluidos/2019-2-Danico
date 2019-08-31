@@ -40,7 +40,7 @@
  <li>g = aceleração da gravidade</li>
  <li>h= altura em relação a um referencial</li>
  <li>P= pressão ao longo do recipiente</li>
- <li> &gamma;=massa específica do fluido</li> </p>
+ <li> &Gamma;=massa específica do fluido</li> </p>
  <p>
 </p> 
 
@@ -54,7 +54,7 @@
   <li> &Delta;P= Variação de Pressão;</li>
  <li> Leq= Comprimento equivalente da tubulação;</li>
  <li>D= Diâmetro interno da tubulação;</li>
- <li>V= Velocidade média do fluido pressão ao longo do recipiente</li>
+ <li>V= Velocidade média do fluido pressão ao longo do recipiente;</li>
  <li> Cf= Fator de Fricção;</li>
- <li> &rho;= Densidade do fluido. </p>
+ <li> &Rho;= Densidade do fluido. </p>
 
