@@ -49,4 +49,11 @@
  
  ![L(eq)](https://raw.githubusercontent.com/laboratorio-de-dinamica-dos-fluidos/2019.2-Danico/master/L(eq).gif)
   
+<p> Onde,
+<ul>
+  <li> &delta;P= Variação de Pressão;</li>
+ <li>g = aceleração da gravidade</li>
+ <li>h= altura em relação a um referencial</li>
+ <li>P= pressão ao longo do recipiente</li>
+ <li> &gamma;=massa específica do fluido</li> </p>
 
