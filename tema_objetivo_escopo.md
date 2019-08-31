@@ -57,4 +57,10 @@
  <li>V= Velocidade média do fluido pressão ao longo do recipiente;</li>
  <li> Cf= Fator de Fricção;</li>
  <li> &rho;= Densidade do fluido. </p>
+ 
+ 
+ **Viabilidade**
+ <p> 
+	Para realização do experimento é necessário uma bancada hidráulica com diferentes tubulações e componentes típicos. Sabendo que o  laboratório de Termofluidos do Campus do Gama da Universidade de Brasília possui uma bancada que atende aos requisitos para este experimento, o mesmo será realizado no laboratório, em data previamente agendada. </p> 
+
 
