@@ -30,9 +30,9 @@
   Neste experimento serão avaliados as perdas de carga em componentes típicos de tubulações, sendo estes os mais diversos possíveis, como ramificações, expansões de área, cotovelos, válvulas ou registros, etc.</p>
 
 <p>
- As perdas de carga serão determinadas a partir da medição de diferença de pressão entre dois pontos. Considera-se que, inicialmente, no nível da bancada de perda de carga, a parcela referente à energia de posição e à energia cinética são iguais nos pontos verificados. Assim, a perda de carga consiste na diferença de energia de pressão entre os pontos, o que pode ser representado pela equação da conservação da energia.
+ As perdas de carga serão determinadas a partir da medição de diferença de pressão entre dois pontos. Considera-se que, inicialmente, no nível da bancada de perda de carga, a parcela referente à energia de posição e à energia cinética são iguais nos pontos verificados. Assim, a perda de carga consiste na diferença de energia de pressão entre os pontos, o que pode ser representado pela equação da conservação da energia.</p>
 ![Bernoulli](https://raw.githubusercontent.com/laboratorio-de-dinamica-dos-fluidos/2019.2-Danico/master/bernoulli.gif)
- Onde,
+<p> Onde,
 <ul>
   <li>V=velocidade do fluido ao longo do conduto;</li>
  <li>g = aceleração da gravidade</li>
