@@ -14,6 +14,6 @@
 Data | Atividade
 ---- | ----------
 11/09-9/10| Execução do Experimento
-28/9 a 02/11 |  Cálulos 
-03/11 a 09/11 | Elaboração dos Gráficos
-09/11 a 23/11 |  Elaboração do Relatório
+28/9-02/11 |  Cálulos 
+03/11-09/11 | Elaboração dos Gráficos
+09/11-23/11 |  Elaboração do Relatório
