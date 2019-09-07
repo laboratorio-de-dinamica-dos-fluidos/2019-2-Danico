@@ -32,7 +32,6 @@
  Existem alguns tipos de análise para incluir o efeito de perda de carga. A princípio o escolhido será o de Darcy-Weissbach. Essa análise efetua uma correção sobre a carga distribuída incluindo um comprimento equivalente para cada um dos componentes da tubulação. Cada componente representa um comprimento equivalente (Leq), que é usado exatamente da mesma forma que o comprimento no cálculo da perda de carga distribuída, ou seja, quando se deseja saber a perda de pressão pela presença de um determinado componente, aplica-se a expressão de Darcy-Weissbach. <p/>
   
  **Viabilidade**
- <p> 
-	Para realização do experimento é necessário uma bancada hidráulica com diferentes tubulações e componentes típicos. Sabendo que o  laboratório de Termofluidos do Campus do Gama da Universidade de Brasília possui uma bancada que atende aos requisitos para este experimento, o mesmo será realizado no laboratório, em data previamente agendada. Sendo viável a realização deste experimento. </p> 
+ <p>Para realização do experimento é necessário uma bancada hidráulica com diferentes tubulações e componentes típicos. Sabendo que o  laboratório de Termofluidos do Campus do Gama da Universidade de Brasília possui uma bancada que atende aos requisitos para este experimento, o mesmo será realizado no laboratório, em data previamente agendada. Sendo viável a realização deste experimento. </p> 
 
 
