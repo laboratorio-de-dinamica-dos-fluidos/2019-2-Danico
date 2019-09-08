@@ -2,7 +2,7 @@
 <p>Sempre que um fluido se desloca no interior de uma tubulação ocorre atrito deste fluido com as paredes internas. As variações de pressão em um sistema de escoamento resultam de variações em elevações ou de velocidade de escoamento (devido à variações de área) e devido ao atrito. O efeito do atrito age no sentido de diminuir a pressão, isto é, o de causar uma Perda de Carga. A Perda de Carga pode ser divida em Distribuída ou Localizada. A Perda de Carga devido à queda de pressão ao longo do comprimento do tubo é chamada de Perda de Carga Distribuída. Já a Perda de Carga Localizada se dá devido ao escoamento através de válvulas, tês, joelhos e à efeitos de atrito em outras porções do sistema de área variável.</p>
 
 **Procedimentos Experimentais**
-<p>
+<p>Para realizar o experimento será necessário uma bancada hidráulica, após montagem dos equipamentos se inicia o escoamento acionado pela abertura da válvula de bloqueio, estabelcendo a vazão e anotando o valor da pressão. O mesmo procedimento será feito fechando a válvula gradativamente, anotando os valores da vazão.<p>
 
 
 **Estimativa de Tempo e Execução do Experimento**
