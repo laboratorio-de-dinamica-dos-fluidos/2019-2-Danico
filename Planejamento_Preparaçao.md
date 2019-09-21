@@ -26,4 +26,4 @@ Data | Atividade
 <p>Os resultados esperados serão os valores obtidos com o experimento possam ser aplicados na equação de Darcy-Weissbach para obtenção da perda de carga. Pretende-se comparar os resultados experimentais com a literatura. </p>  
 
 **Foto da Bancada Hidráulica**
-!(https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-Danico/blob/master/WhatsApp%20Image%202019-09-20%20at%2018.39.28.jpeg)
+![Alt Text](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-Danico/blob/master/WhatsApp%20Image%202019-09-20%20at%2018.39.28.jpeg)
