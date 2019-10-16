@@ -22,10 +22,11 @@ Data | Atividade
 **Dados a serem medidos e/ou calculados**
 <p>O objetivo é observar e medir a perda de carga nos acessórios do circuito da bancada de hidráulica do laboratório da FGA. Para isso, será observado a variação de pressão (lido como &Delta;h) entre 2 pontos definidos, através de uma coluna de mercúrio. Os dados a serem medidos são: diâmetro e comprimento do tubo, propriedades do fluido, da massa específica, viscosidade e velocidade do escoamento. </p>
 <p>Vazão=2500L/h<p>
+  
 Carga Distribuída| Carga Localizada
 ---------------- | ----------------
-P1=2mca          | P1=2,4mca  
-P2=0,6mca          | P1=0,6mca  
+P1=2mca       | P1=2,4mca  
+P2=0,6mca     | P1=0,6mca  
 
 **Resultados esperados**
 <p>Os resultados esperados serão os valores obtidos com o experimento possam ser aplicados na equação de Darcy-Weissbach para obtenção da perda de carga. Pretende-se comparar os resultados experimentais com a literatura. </p>  
