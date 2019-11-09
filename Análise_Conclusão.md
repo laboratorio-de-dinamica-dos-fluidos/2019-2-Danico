@@ -13,7 +13,7 @@ P2=0,6mca         | P2=0,6mca
 <p>
 
 
-<p>Para analise gráfica, primeiramente se contruiu uma tabela com todos os dados obtidos no experimento. A perda de carga unitária(J) pode ser encontrada a partir da relação entre a perdade de carga (&Deltah) e o comprimento total da tubulação (J= &Deltah/L), tanto para a perda localizada quanto para distribuida<p> 
+<p>Para analise gráfica, primeiramente se contruiu uma tabela com todos os dados obtidos no experimento. A perda de carga unitária(J) pode ser encontrada a partir da relação entre a perdade de carga ( &DeltaH ) e o comprimento total da tubulação (J= &DeltaH /L), tanto para a perda localizada quanto para distribuida<p> 
 <p>
 
 Tubulação|Diâmetro(m)|Comprimento(m)|Vazão (L/h)|P1 (m.c.a) | P2(m.c.a) | &Delta;H (m.c.a)| J(m/m)
