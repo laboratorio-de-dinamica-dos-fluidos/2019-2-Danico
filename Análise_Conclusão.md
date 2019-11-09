@@ -16,12 +16,11 @@ P2=0,6mca         | P2=0,6mca
 <p>Para analise gráfica, primeiramente se contruiu uma tabela com todos os dados obtidos no experimento<p> 
 <p>
 
-Tubulação|Diâmetro(m)|Comprimento(m)|Vazão (L/h)|P1 (m.c.a) | P2(m.c.a) 
----------|------------|------------|------------|-------------|----------
-   1       |0,025       |0,73          |2500       |2             |0,6
-   2        |0,025         |0,73       |2500         |2              |0,6
+Tubulação|Diâmetro(m)|Comprimento(m)|Vazão (L/h)|P1 (m.c.a) | P2(m.c.a) | &Delta;H 
+---------|------------|------------|------------|-------------|----------|--------
+   1       |0,025       |0,73          |2500       |2             |0,6     |1,4
+   2        |0,025         |0,73       |2500         |2,4              |0,6  |1,8
     
 <p>
 
- 1       |  0,025             |    0,73    |   2500   |  2          | 0,6 mca  
-    2        |   0,025           |    0,73    |   2500   |2,4          | 0,6mca 
+ 
