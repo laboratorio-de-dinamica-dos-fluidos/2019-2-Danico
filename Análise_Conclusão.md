@@ -8,7 +8,7 @@ seriam praticamente os mesmos. Com isso, não temos os dados dos erros experimen
 Carga Distribuída| Carga Localizada
 -----------------|---------------
 P1=2mca          | P1=2,4mca  
-P2=0,6mca         | P2=0,6mca 
+P2=0,2mca         | P2=0,6mca 
 
 <p>
 
@@ -18,7 +18,7 @@ P2=0,6mca         | P2=0,6mca
 
 Tubulação|Diâmetro(m)|Comprimento(m)|Vazão (L/h)|P1 (m.c.a) | P2(m.c.a) | &Delta;H (m.c.a)| J(m/m)
 ---------|------------|------------|------------|-------------|----------|----------------|------
-   1       |0,025       |0,73          |2500       |2             |0,6     |1,4             | 1,91
+   1       |0,025       |0,73          |2500       |2             |0,2     |1,8             | 2,46
    2        |0,025         |0,73       |2500         |2,4              |0,6  |1,8               | 2,46
     
 <p>
