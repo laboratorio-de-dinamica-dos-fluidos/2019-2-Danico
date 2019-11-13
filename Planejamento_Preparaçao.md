@@ -26,7 +26,7 @@ Data | Atividade
 Carga Distribuída| Carga Localizada
 ---------------- | ----------------
 P1=2mca       | P1=2,4mca  
-P2=0,6mca     | P1=0,6mca  
+P2=0,2mca     | P1=0,6mca  
 
 **Resultados esperados**
 <p>Os resultados esperados serão os valores obtidos com o experimento possam ser aplicados na equação de Darcy-Weissbach para obtenção da perda de carga. Pretende-se comparar os resultados experimentais com a literatura. </p>  
