@@ -30,14 +30,14 @@ Tubulação|Diâmetro(m)|Comprimento(m)|Vazão (L/h)|P1 (m.c.a) | P2(m.c.a) | &D
 <p>A partir da Equação Fundamental da Perda de Carga, obteve-se os seguintes valores:
    
    Fator de Atrito Laminar (f)|Número de Reynolds (Re)|Perda de Carga (&Delta;H)
----------|------------|------------|
+------------------------------|-----------------------|-------------------------|
    1,31       |48752,86       |0,0039          
    
 <p>
    
   Dados| Experimental |Equação Fudamental| Equação Hazen-Williams| Equação Fair-Whipple-Hsiao
------------|------------|------------------|-----------------------|--------------------------
-   Perda de Carga (m.c.a) |1,8|     0,039    | 0,0662                        |0,0767
+-------|--------------|------------------|-----------------------|--------------------------
+   Perda de Carga (m.c.a)   |1,8|     0,039    | 0,0662                        |0,0767
      
    <p>
    
