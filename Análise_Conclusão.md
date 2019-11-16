@@ -23,12 +23,21 @@ Tubulação|Diâmetro(m)|Comprimento(m)|Vazão (L/h)|P1 (m.c.a) | P2(m.c.a) | &D
     
 <p>
 
+   É possível calcular a perda  de  carga  em  uma  tubulação  de  acordo  com  algumas  equações empíricas, como a Equação de Darcy-Weisbach (Equação Fundamental), Hazen-Williams e Fair-Whipple-Hsiao.Como os valores de diâmetro e comprimento são iguais, foi possível obter apenas um resultado com as equações empíricas. Desse modo, temos:
+   
+ <p>
  
 <p>A partir da Equação Fundamental da Perda de Carga, obteve-se os seguintes valores:
    
-   Fator de Atrito Laminar (f)|Número de Reynolds (Re)|Perda de Carga (hf)
+   Fator de Atrito Laminar (f)|Número de Reynolds (Re)|Perda de Carga (&Delta;H)
 ---------|------------|------------|
    1,31       |48752,86       |0,0039          
    
-
 <p>
+   
+  Dados| Experimental |Equação Fudamental| Equação Hazen-Williams| Equação Fair-Whipple-Hsiao
+-----------|------------|------------------|-----------------------|--------------------------
+   Perda de Carga (m.c.a) |1,8|     0,039    | 0,0662                        |0,0767
+     
+   <p>
+   
