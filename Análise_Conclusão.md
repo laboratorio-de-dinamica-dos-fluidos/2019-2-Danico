@@ -43,4 +43,7 @@ Tubulação|Diâmetro(m)|Comprimento(m)|Vazão (L/h)|P1 (m.c.a) | P2(m.c.a) | &D
    
    <p>
      Com os valores coletados experimentalmente é possível comparar a perda  de  carga  em  uma  tubulação e relacioná-las com a Equação de Darcy-Weisbach (Equação Fundamental), Hazen-Williams e Fair-Whipple-Hsiao. Graficamente, obtivemos: 
-   <p>
+   </p>
+     
+   ![Alt Text](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-Danico/blob/master/Sem%20t%C3%ADtulo.png)
+
