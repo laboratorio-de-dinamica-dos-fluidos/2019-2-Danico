@@ -23,13 +23,13 @@ Tubulação|Diâmetro(m)|Comprimento(m)|Vazão (L/h)|P1 (m.c.a) | P2(m.c.a) | &D
     
 <p>
    
-   Ao calcular a perda de carga para a tubulação reta e com uma derivção se observou que o valor é igual para os dois tipos de tubulação,sendo comparado com o método de comprimento equivalente.
+   Ao calcular a perda de carga para a tubulação reta e com uma derivação, observou-se que o valor é igual para os dois tipos de tubulação, sendo comparado com o método de comprimento equivalente.
    <p>
-   O método de comprimento equivalente diz que uma tubulação que possui ao longo de sua extensão uma série de singularidades(perdas localizadas) é equivalente a uma tubulação reta sem singularidades (perdas distribuidas).Além do mais, o comprimento equivalente de uma singularidade depende do diâmentro, coeficiente de atrito, número de Reynolds e da rugosidade de contato , portanto deve ser calculado para cada caso.
+   O método de comprimento equivalente diz que uma tubulação que possui ao longo de sua extensão uma série de singularidades (perdas localizadas) é equivalente a uma tubulação reta sem singularidades (perdas distribuídas). Além do mais, o comprimento equivalente de uma singularidade depende do diâmentro, coeficiente de atrito, número de Reynolds e da rugosidade de contato. Com isso, deve ser calculado para cada caso.
    
 
 <p>
-   É possível calcular a perda  de  carga  pelo método de comprimento equivalente com algumas equações empíricas, como a Equação de Darcy-Weisbach (Equação Fundamental), Hazen-Williams e Fair-Whipple-Hsiao.Como os valores de diâmetro e comprimento são iguais, foi possível obter apenas um resultado. Desse modo, temos:
+   É possível calcular a perda  de  carga  pelo método de comprimento equivalente com algumas equações empíricas, como a Equação de Darcy-Weisbach (Equação Fundamental), Hazen-Williams e Fair-Whipple-Hsiao. Como os valores de diâmetro e comprimento são iguais, foi possível obter apenas um resultado. Desse modo, temos:
    
  <p>
  
@@ -46,9 +46,9 @@ Tubulação|Diâmetro(m)|Comprimento(m)|Vazão (L/h)|P1 (m.c.a) | P2(m.c.a) | &D
    Perda de Carga (m.c.a)   |1,8|     0,039    | 0,0662                        |0,0767
      
    <p>
-   É possível observar que os valores obtidos na teoria está distante do valor obtido experimentalmente,assim como os valores obtidos com as equações teóricas, também não são valores próximos quando analisados individualmente. Um fator que pode ter contribuido para essa diferença é a rugosidade do material,o qual se deve considerar como rugosidade relativa.
+   É possível observar que os valores obtidos na teoria está distante do valor obtido experimentalmente, assim como os valores obtidos com as equações teóricas, também não são valores próximos quando analisados individualmente. Um fator que pode ter contribuído para essa diferença é a rugosidade do material, a qual deve ser considerar como rugosidade relativa.
    <p>
-   Ao longo do tempo a rugosidade relativa tende a aumentar, devido a corrosão que pode ocorrer no interior do tubo, assim como depósito na superfície em contato com o fluido.
+   Ao longo do tempo a rugosidade relativa tende a aumentar, devido à corrosão que pode ocorrer no interior do tubo, assim como depósito na superfície em contato com o fluido.
  
    <p>
      Com os valores coletados experimentalmente é possível comparar a perda  de  carga  em  uma  tubulação e relacioná-las com a Equação de Darcy-Weisbach (Equação Fundamental), Hazen-Williams e Fair-Whipple-Hsiao. Graficamente, obtivemos: 
