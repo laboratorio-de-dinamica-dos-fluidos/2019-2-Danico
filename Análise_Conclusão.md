@@ -1,3 +1,5 @@
+<p>ANÁLISE DE RESULTADOS
+
 <p>Foi decidido, juntamente com o professor, que não seria necessário realizar o experimento mais de uma vez, já que os resultados obtidos seriam praticamente os mesmos. Com isso, não temos os dados dos erros experimentais.</p>
 <p>Os dados obtidos experimentalmente estão na tabela abaixo:<p>
 
@@ -46,7 +48,7 @@ Tubulação|Diâmetro(m)|Comprimento(m)|Vazão (L/h)|P1 (m.c.a) | P2(m.c.a) | &D
    Perda de Carga (m.c.a)   |1,8|     0,039    | 0,0662                        |0,0767
      
    <p>
-   É possível observar que os valores obtidos na teoria está distante do valor obtido experimentalmente, assim como os valores obtidos com as equações teóricas, também não são valores próximos quando analisados individualmente. Um fator que pode ter contribuído para essa diferença é a rugosidade do material, a qual deve ser considerar como rugosidade relativa. Outro fator que deve ser levado em consideração é que ao fazer as deduções das equações de perda de carga,os tubos utilizados na época tinha diâmetro aproximado de 1,78m,equanto o diâmetro do tubo utilizado no experimento tem diâmetro de 0,025m.
+   É possível observar que os valores obtidos na teoria está distante do valor obtido experimentalmente, assim como os valores obtidos com as equações teóricas, também não são valores próximos quando analisados individualmente. Um fator que pode ter contribuído para essa diferença é a rugosidade do material, a qual deve ser considerar como rugosidade relativa. Outro fator que deve ser levado em consideração é que ao fazer as deduções das equações de perda de carga,os tubos utilizados na época tinha diâmetro aproximado de 1,78m(DPR,2019),equanto o diâmetro do tubo utilizado no experimento tem diâmetro de 0,025m.
    <p>
    Ao longo do tempo a rugosidade relativa tende a aumentar, devido à corrosão que pode ocorrer no interior do tubo, assim como depósito na superfície em contato com o fluido.
  
@@ -60,3 +62,20 @@ Tubulação|Diâmetro(m)|Comprimento(m)|Vazão (L/h)|P1 (m.c.a) | P2(m.c.a) | &D
    CONCLUSÃO
    <p>
    Ao analisar os dados se percebe que os valores obtidos pelas equações impíricas não estão próximos do valor obtido experimentalmente, se acrdita que isso se deve ao fato de não se ter ao certo o valor da rugosidade do material,poder variar devido degradação. Os tubos utilizados experimentalmente tem diâmetro diferente do que foi utilizado para obtenção das equações empíricas,podendo influenciar no resultado.E ao realizar o experimento é possível que algum dado ou execução possa ter passado despercebido pelos alunos.
+      
+      
+   </p>
+    
+   REFERÊNCIA BIBLIOGRÁFICA
+    
+   <P>
+    1-AMARAL,E. R.AMARAL,T.R.Análise dos Fatores que Influenciam nas Perdas de Carga em Tubulações e Acessórios Hidráulicos.Sistema de Iniciação Científica do Instituto Federal do Norte de Minas Gerais,2016.Montes Claros. Acesso em 22/11/2019. Disponível em:https://www.ifnmg.edu.br/arquivos/2016/proppi/sic/resumos/64ddd471-17b3-4218-8c2f-02b86282f985.pdf
+   <p>
+   2-DPR-Engenharia e Simulação.Limitações do uso da Equação de Hazen-Williams para Determinação da Perda de Carga. Acesso em:22/11/2019. Disponível em: https://dprengenharia.com/limitacoes-do-uso-da-equacao-de-hazen-williams-para-determinacao-da-perda-de-carga/
+    <p>
+   3-DEPARTAMENTO DE ENGENHARIA MECÂNICA. Perdas de carga distribuída e localizada em escoamento turbulento e com medidores de vazão-Roteiro Experimental. Universidade Politécnica da Universidade de São Paulo. Acesso em: 29/08/2019. Disponível em:https://sistemas.eel.usp.br/docentes/arquivos/5817712/LEQ%20I/PME2230.RL.Escoamento_Turbulento.Medidores_Vazao.site.pdf
+       
+   <p>  
+    4-ECO EDUCACIONAL.Soluções Práticas para Ensino e Pesquisa-Roteiro Experimental. Universidade Federal de Santa Catarina. Acesso em:26/08/2019. Disponível em:https://moodle.ufsc.br/pluginfile.php/1160682/mod_resource/content/1/Roteiro-Pratica-PerdaCargaAcessoriosHidraulicos-EQA-UFSC-ECOEDucacional-2014.pdf  
+    <p>
+       
