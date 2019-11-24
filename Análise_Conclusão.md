@@ -46,7 +46,7 @@ Tubulação|Diâmetro(m)|Comprimento(m)|Vazão (L/h)|P1 (m.c.a) | P2(m.c.a) | &D
    Perda de Carga (m.c.a)   |1,8|     0,039    | 0,0662                        |0,0767
      
    <p>
-   É possível observar que os valores obtidos na teoria está distante do valor obtido experimentalmente, assim como os valores obtidos com as equações teóricas, também não são valores próximos quando analisados individualmente. Um fator que pode ter contribuído para essa diferença é a rugosidade do material, a qual deve ser considerar como rugosidade relativa.
+   É possível observar que os valores obtidos na teoria está distante do valor obtido experimentalmente, assim como os valores obtidos com as equações teóricas, também não são valores próximos quando analisados individualmente. Um fator que pode ter contribuído para essa diferença é a rugosidade do material, a qual deve ser considerar como rugosidade relativa. Outro fator que deve ser levado em consideração é que ao fazer as deduções das equações de perda de carga,os tubos utilizados na época tinha diâmetro aproximado de 1,78m,equanto o diâmetro do tubo utilizado no experimento tem diâmetro de 0,025m.
    <p>
    Ao longo do tempo a rugosidade relativa tende a aumentar, devido à corrosão que pode ocorrer no interior do tubo, assim como depósito na superfície em contato com o fluido.
  
@@ -56,3 +56,7 @@ Tubulação|Diâmetro(m)|Comprimento(m)|Vazão (L/h)|P1 (m.c.a) | P2(m.c.a) | &D
      
    ![Alt Text](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-Danico/blob/master/Sem%20t%C3%ADtulo.png)
 
+<p>
+   CONCLUSÃO
+   <p>
+   Ao analisar os dados se percebe que os valores obtidos pelas equações impíricas não estão próximos do valor obtido experimentalmente, se acrdita que isso se deve ao fato de não se ter ao certo o valor da rugosidade do material,poder variar devido degradação. Os tubos utilizados experimentalmente tem diâmetro diferente do que foi utilizado para obtenção das equações empíricas,podendo influenciar no resultado.E ao realizar o experimento é possível que algum dado ou execução possa ter passado despercebido pelos alunos.
