@@ -61,7 +61,7 @@ Tubulação|Diâmetro(m)|Comprimento(m)|Vazão (L/h)|P1 (m.c.a) | P2(m.c.a) | &D
 <p>
    CONCLUSÃO
    <p>
-   Ao analisar os dados se percebe que os valores obtidos pelas equações impíricas não estão próximos do valor obtido experimentalmente, se acrdita que isso se deve ao fato de não se ter ao certo o valor da rugosidade do material,poder variar devido degradação. Os tubos utilizados experimentalmente tem diâmetro diferente do que foi utilizado para obtenção das equações empíricas,podendo influenciar no resultado.E ao realizar o experimento é possível que algum dado ou execução possa ter passado despercebido pelos alunos.
+   Ao analisar os dados, percebe-se que os valores obtidos pelas equações empíricas não estão próximos do valor obtido experimentalmente. Portanto, concluiu-se que essa diferença de proximidade se deve ao fato de não se ter ao certo o valor da rugosidade do material, podendo essa variar devido à degradação. Os tubos utilizados experimentalmente possuem diâmetros distintos dos que foram utilizados para a obtenção das equações empíricas, podendo influenciar no resultado e, também, durante a realização do experimento, é possível que algum dado ou execução possa ter passado despercebido pelos alunos.
       
       
    </p>
